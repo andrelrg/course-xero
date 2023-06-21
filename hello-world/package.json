@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "ola"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
